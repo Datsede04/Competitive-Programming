@@ -14,4 +14,3 @@ class Solution:
         if slow.next is not None:
             slow.next = slow.next.next
         return head
-        
